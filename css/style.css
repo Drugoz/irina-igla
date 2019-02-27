@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+}
+
+.block {
+    border-bottom: 2px solid #000;
+    background-color: #48484826;
+}
+
+.tel{
+	font-size: 30px;
+	margin-bottom: 0;
+	position: relative;
+	top: 14px;
+}
+.adres{
+	font-size: 16px;
+	color: #9e8f8f;
+	margin: 19px 0 0 0;
+}
+
+#adres1{
+	margin:0;
+}
+
+.soc img{
+	border-radius:100%;
+	height: 40px;
+	width: 40px;
+	margin-top:42px;
+	}
+
+.knopka1 img {
+    border-radius: 13px;
+    margin-top: 40px;
+}
+
+.block1{
+	border-bottom:2px solid #000;
+	background-color: #fff;
+	padding-top:9px;
+}
